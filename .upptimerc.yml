@@ -7,7 +7,7 @@ sites:
   - name: みどりんさーばー
     url: https://midorin.info/
   - name: mc.midorin.info
-    url: mc.midonrin.info
+    url: https://api.mcsrvstat.us/simple/mc.midorin.info
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
