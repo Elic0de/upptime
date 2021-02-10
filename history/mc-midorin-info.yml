@@ -1,7 +1,7 @@
 url: https://api.mcsrvstat.us/simple/mc.midorin.info
-status: down
-code: 404
-responseTime: 4297
-lastUpdated: 2021-02-10T17:52:29.621Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2021-02-10T17:57:55.376Z
 startTime: Tue Jan 05 2021 10:16:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
